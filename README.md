@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1e7-Da5dqC10q3Hct4qT5NZtW3RcJDrfhDgrcugqR4QY/edit?usp=sharing](https://docs.google.com/document/d/1e7-Da5dqC10q3Hct4qT5NZtW3RcJDrfhDgrcugqR4QY/edit?usp=sharing)
 
-- ⚡ Fun fact **I also like drawing**
+- ⚡ Fun fact **I also like to draw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
