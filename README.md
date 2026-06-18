@@ -12,8 +12,7 @@
 </div>
 
 ---
-
-Computer Science undergraduate specialising in Mathematics & Computing at DTU. I build scalable, real-time web applications and enjoy solving hard algorithmic problems along the way.
+Mathematics & Computing undergraduate at DTU. I build scalable, real-time web applications and enjoy solving hard algorithmic problems along the way.
 
 ---
 
